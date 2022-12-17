@@ -8,7 +8,7 @@
 <div id="menu">
 <ul>
 <li><a href="index.html"><strong style="font-size: 125%;">John Clausen</strong></a></li>
-<li><a href="http://jclausen111.github.io/Files.html">Files</a></li>
+<li><a href="index.html"><strong style="font-size: 125%;">Files</strong></a></li>
 </ul>
 </div>
 
