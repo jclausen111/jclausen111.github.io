@@ -7,7 +7,7 @@
 <BODY>
 <div id="menu">
 <ul>
-<li><a href="stat510.html"><strong style="font-size: 125%;">Files</strong></a></li>
+<li><a href="Files.html"><strong style="font-size: 125%;">Files</strong></a></li>
 <li><a href="R.html">R</a></li>
 <li><a href="SAS.html">SAS</a></li>
 <li><a href="http://jclausen111.github.io">John Clausen</a></li>
