@@ -1,7 +1,7 @@
 <HTML>
 <HEAD>
 <LINK REL=stylesheet HREF="mystyle.css" TYPE="text/css">
-<TITLE>Home Page</TITLE>
+<TITLE>Home</TITLE>
 </HEAD>
 
 <BODY>
@@ -26,15 +26,19 @@ Areas of Interest:
 </H2>
 
 <P>
-Linear Mixed Models <br />
-Generalized Linear Mixed Models <br />
-Categorical Data Analysis <br />
-Experimental Design <br />
-Causal Inference <br />
-Statistical Software: <br />
-SAS <br />
-R <br />
-JMP <br />
+Linear Mixed Models <BR>
+Generalized Linear Mixed Models <BR>
+Categorical Data Analysis <BR>
+Experimental Design <BR>
+Causal Inference <BR>
+
+<H2>
+Statistical Software: 
+</H2>
+SAS <BR>
+R <BR> 
+JMP <BR>
+
 </P>
 
 <H2>
@@ -42,9 +46,9 @@ Education:
 </H2>
 
 <P>
-Kansas State University: Passed Statistics Department Ph.D. Qualifying Exams, 2017 <br />
-University of Nebraska-Lincoln: Master of Science, Statistics, 2011 <br />
-University of Nebraska at Omaha: Bachelor of Science, Mathematics, 2008 <br />
+Kansas State University: Passed Statistics Department Ph.D. Qualifying Exams, 2017 <BR>
+University of Nebraska-Lincoln: Master of Science, Statistics, 2011 <BR>
+University of Nebraska at Omaha: Bachelor of Science, Mathematics, 2008 <BR>
 </P>
 
 <H2>
@@ -52,7 +56,7 @@ Contact
 </H2>
 
 <P>
-Grimes, Iowa <br />
+Grimes, Iowa <BR>
 clausen.john.09@gmail.com
 </P>  
 
