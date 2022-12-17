@@ -1,64 +1,36 @@
 <HTML>
 <HEAD>
-<LINK REL=stylesheet HREF="mystyle.css" TYPE="text/css">
-<TITLE>Home</TITLE>
+<LINK REL=stylesheet HREF="Filesstyle.css" TYPE="text/css">
+<TITLE>Examples</TITLE>
 </HEAD>
 
 <BODY>
 <div id="menu">
 <ul>
-<li><a href="index.html"><strong style="font-size: 125%;">John Clausen</strong></a></li>
-<li><a href="index.html"><strong style="font-size: 125%;">Files</strong></a></li>
+<li><a href="stat510.html"><strong style="font-size: 125%;">Files</strong></a></li>
+<li><a href="R.html">R</a></li>
+<li><a href="SAS.html">SAS</a></li>
+<li><a href="http://jclausen111.github.io">John Clausen</a></li>
 </ul>
 </div>
 
-<img src = "photo.jpg">      
-  
-<H2>
-About
-</H2>
-<P>
-John Clausen is an applied statistician with experience in medical device industry and health services research.
-</P>
 
-<H2>
-Areas of Interest:
-</H2>
+<H1>Example Files/H1>
+<H3>2022</H3>
 
-<P>
-Linear Mixed Models <BR>
-Generalized Linear Mixed Models <BR>
-Categorical Data Analysis <BR>
-Experimental Design <BR>
-Causal Inference <BR>
 
-<H2>
-Statistical Software: 
-</H2>
-SAS <BR>
-R <BR> 
-JMP <BR>
+<OL>
 
-</P>
+<LI><A HREF="01test.txt">
+Test A</A>
 
-<H2>
-Education:
-</H2>
+<LI><A HREF="02test.txt">
+Test B</A>
 
-<P>
-Kansas State University: Passed Statistics Department Ph.D. Qualifying Exams, 2017 <BR>
-University of Nebraska-Lincoln: Master of Science, Statistics, 2011 <BR>
-University of Nebraska at Omaha: Bachelor of Science, Mathematics, 2008 <BR>
-</P>
 
-<H2>
-Contact
-</H2>
+ 
 
-<P>
-Grimes, Iowa <BR>
-clausen.john.09@gmail.com
-</P>  
+</OL>
 
 </BODY>
 </HTML>
