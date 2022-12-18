@@ -1,14 +1,14 @@
 <HTML>
 <HEAD>
 <LINK REL=stylesheet HREF="mystyle.css" TYPE="text/css">
-<TITLE>Home</TITLE>
+<TITLE>Main Page</TITLE>
 </HEAD>
 
 <BODY>
 <div id="menu">
 <ul>
 <li><a href="index.html"><strong style="font-size: 125%;">John Clausen</strong></a></li>
-<li><a href="index.html"><strong style="font-size: 125%;">Files</strong></a></li>
+<li><a href="http://jclausen111.github.io/Files.html">Files</a></li>
 </ul>
 </div>
 
@@ -31,14 +31,16 @@ Generalized Linear Mixed Models <BR>
 Categorical Data Analysis <BR>
 Experimental Design <BR>
 Causal Inference <BR>
-
+</P>
+  
 <H2>
 Statistical Software: 
 </H2>
+  
+<P>
 SAS <BR>
 R <BR> 
 JMP <BR>
-
 </P>
 
 <H2>
