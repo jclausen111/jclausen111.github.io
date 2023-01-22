@@ -12,13 +12,12 @@
 </ul>
 </div>
 
-<img src = "photo.jpg">      
   
 <H2>
 About
 </H2>
 <P>
-John Clausen is an applied statistician with experience in medical device industry and health services research.
+John Clausen is an applied statistician with experience in medical device and health care industries.
 </P>
 
 <H2>
@@ -31,6 +30,7 @@ Generalized Linear Mixed Models <BR>
 Categorical Data Analysis <BR>
 Experimental Design <BR>
 Causal Inference <BR>
+Statistical Programming <BR>
 </P>
   
 <H2>
