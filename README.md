@@ -1,17 +1,6 @@
 <HTML>
-<HEAD>
-<LINK REL=stylesheet HREF="mystyle.css" TYPE="text/css">
-<TITLE>Main Page</TITLE>
-</HEAD>
 
 <BODY>
-<div id="menu">
-<ul>
-<li><a href="index.html"><strong style="font-size: 125%;">John Clausen</strong></a></li>
-<li><a href="http://jclausen111.github.io/Files.html">Files</a></li>
-</ul>
-</div>
-
   
 <H2>
 About
